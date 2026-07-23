@@ -27,4 +27,12 @@
 | StockOnHand | Number | Units in stock |
 | ReorderPoint | Number | Threshold for reorder alert |
 
+## Dimension Tables
 
+**DimSupplier** — SupplierID, Name, Country, Category, ContractType, Rating
+
+**DimProduct** — ProductID, Category, SubCategory, UnitOfMeasure, SafetyStock
+
+**DimWarehouse** — WarehouseID, Location, Region, Capacity
+
+**DimDate** — standard calendar table (Year, Quarter, Month, Week, IsWeekend)
