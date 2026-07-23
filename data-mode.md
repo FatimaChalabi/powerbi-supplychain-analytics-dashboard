@@ -36,3 +36,10 @@
 **DimWarehouse** — WarehouseID, Location, Region, Capacity
 
 **DimDate** — standard calendar table (Year, Quarter, Month, Week, IsWeekend)
+
+## Relationships
+- FactShipments[SupplierID] → DimSupplier[SupplierID] (many-to-one)
+- FactShipments[ProductID] → DimProduct[ProductID] (many-to-one)
+- FactShipments[WarehouseID] → DimWarehouse[WarehouseID] (many-to-one)
+- FactShipments[OrderDate] → DimDate[Date] (many-to-one)
+- FactInventorySnapshot[ProductID] → DimProduct[ProductID] (many-to-one)
