@@ -17,3 +17,14 @@
 | DefectQty | Number | Units rejected/defective |
 | UnitCost | Currency | Cost per unit |
 | TotalCost | Currency | OrderQty × UnitCost |
+
+### FactInventorySnapshot
+| Column | Type | Description |
+|---|---|---|
+| SnapshotDate | Date | Daily snapshot date |
+| ProductID | FK | Links to DimProduct |
+| WarehouseID | FK | Links to DimWarehouse |
+| StockOnHand | Number | Units in stock |
+| ReorderPoint | Number | Threshold for reorder alert |
+
+
