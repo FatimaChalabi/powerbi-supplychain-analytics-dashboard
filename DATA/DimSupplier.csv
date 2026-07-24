@@ -1,0 +1,21 @@
+SupplierID,SupplierName,Country,Category,ContractType,SupplierRating,LeadTimeSLA_Days,PaymentTerms,ContractStartDate
+SUP001,Baku Steel Trading,Turkey,Electrical,Spot,4.3,12,Net 45,2022-04-30
+SUP002,Caspian Cement Co,Germany,Hardware & Fasteners,Long-term,3.3,7,Net 45,2021-08-19
+SUP003,Absheron Logistics Supply,Russia,Packaging,Long-term,3.9,7,Net 45,2023-01-19
+SUP004,Ganja Hardware Ltd,Georgia,Packaging,Long-term,3.8,5,Net 30,2024-04-09
+SUP005,Nizami Building Materials,Azerbaijan,Chemicals,Long-term,4.9,15,Net 45,2022-06-25
+SUP006,Sumqayit Metal Works,Azerbaijan,Chemicals,Spot,4.6,9,Net 30,2023-11-26
+SUP007,Khazar Pipe & Fittings,Azerbaijan,Chemicals,Spot,4.4,14,Prepaid,2022-06-09
+SUP008,Azeri Timber Group,UAE,Electrical,Framework Agreement,3.8,11,Net 60,2024-03-29
+SUP009,Silk Road Freight Parts,Georgia,Packaging,Long-term,4.0,14,Net 60,2024-01-15
+SUP010,Guba Electric Supplies,Russia,Packaging,Long-term,4.9,13,Net 30,2022-08-01
+SUP011,Lankaran Agro Packaging,Azerbaijan,Raw Materials,Long-term,4.0,16,Net 30,2022-11-13
+SUP012,Shirvan Chemical Supply,Germany,Electrical,Spot,3.2,11,Net 30,2022-07-11
+SUP013,Mingachevir Concrete Ltd,Iran,Machinery Parts,Long-term,3.2,13,Net 60,2023-10-10
+SUP014,Turan Industrial Parts,Azerbaijan,Electrical,Long-term,2.9,12,Net 30,2022-10-08
+SUP015,Ozan Glass & Ceramics,Azerbaijan,Machinery Parts,Spot,2.5,16,Net 45,2023-03-07
+SUP016,Karabakh Construction Supply,Azerbaijan,Raw Materials,Long-term,3.6,6,Net 30,2023-11-18
+SUP017,Novruz Fasteners Co,Azerbaijan,Hardware & Fasteners,Framework Agreement,3.5,5,Net 60,2021-07-09
+SUP018,Araz Insulation Materials,Turkey,Packaging,Long-term,3.2,20,Net 45,2022-09-25
+SUP019,Qobustan Aggregates,Turkey,Raw Materials,Long-term,2.5,11,Net 45,2022-09-20
+SUP020,Yevlakh Machinery Parts,Azerbaijan,Packaging,Framework Agreement,3.0,11,Net 45,2023-08-31
