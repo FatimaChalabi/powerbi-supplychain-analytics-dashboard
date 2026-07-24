@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,UnitOfMeasure,SafetyStock,ReorderPoint
+PRD001,Cement 50kg Bag,Raw Materials,Unit,308,122
+PRD002,Steel Rebar 12mm,Raw Materials,Box,460,156
+PRD003,Sand (m3),Raw Materials,Box,214,70
+PRD004,Gravel (m3),Raw Materials,Bag,221,171
+PRD005,Bitumen Drum,Raw Materials,m3,423,179
+PRD006,Bolt Set M10,Hardware & Fasteners,Unit,229,132
+PRD007,Anchor Bolts,Hardware & Fasteners,Box,491,71
+PRD008,Steel Nails 100mm,Hardware & Fasteners,Roll,344,149
+PRD009,Hinges Heavy Duty,Hardware & Fasteners,m3,162,120
+PRD010,Copper Cable 10mm,Electrical,Unit,489,100
+PRD011,Circuit Breaker,Electrical,m3,162,21
+PRD012,LED Panel Light,Electrical,Bag,269,73
+PRD013,Junction Box,Electrical,Drum,273,148
+PRD014,Pallet Wrap Roll,Packaging,m3,175,149
+PRD015,Wooden Pallet,Packaging,Drum,221,179
+PRD016,Corrugated Box L,Packaging,Box,465,87
+PRD017,Strapping Band,Packaging,m3,233,142
+PRD018,Hydraulic Hose,Machinery Parts,Unit,304,57
+PRD019,Excavator Filter,Machinery Parts,Drum,421,117
+PRD020,Conveyor Belt 5m,Machinery Parts,Box,444,163
+PRD021,Forklift Tire,Machinery Parts,Unit,250,143
+PRD022,Concrete Sealant,Chemicals,m3,375,112
+PRD023,Anti-Rust Coating,Chemicals,m3,197,183
+PRD024,Adhesive Drum,Chemicals,m3,395,166
+PRD025,Waterproofing Agent,Chemicals,Roll,401,71
