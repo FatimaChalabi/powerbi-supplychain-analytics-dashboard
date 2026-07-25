@@ -1,0 +1,7 @@
+WarehouseID,WarehouseName,Region,CapacityUnits,Latitude,Longitude
+WH01,Baku Central Hub,Absheron,13680,40.4093,49.8671
+WH02,Sumqayit Depot,Absheron,7976,40.5892,49.6686
+WH03,Ganja Regional Store,Ganja-Gazakh,6959,40.6828,46.3606
+WH04,Mingachevir Storage,Central Aran,10759,40.7699,47.0489
+WH05,Lankaran South Depot,Lankaran,11694,38.7539,48.8531
+WH06,Shaki North Hub,Shaki-Zaqatala,7385,41.201,47.1706
