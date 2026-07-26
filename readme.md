@@ -7,3 +7,6 @@ End-to-end Power BI dashboard for supply chain performance monitoring — suppli
 - Monitor inventory turnover and stockout risk (ABC classification)
 - Compare procurement budget vs actual cost
 - Simulate the impact of lead-time and supplier changes on inventory levels
+
+## 🛠️ Tools
+Power BI · DAX · Star Schema Data Modeling · Power Query
